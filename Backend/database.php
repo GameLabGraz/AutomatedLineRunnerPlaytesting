@@ -34,9 +34,9 @@ function print_stars($num)
     <?php endfor;
 }
 
-$dbHost = 'sql378.your-server.de';
-$dbUser = 'michnn_1';
-$dbPass = "UQRf4RK61rBqhFyq";
+$dbHost = '';
+$dbUser = '';
+$dbPass = "";
 $db = 'mich312';
 
 $conn = new mysqli($dbHost,
